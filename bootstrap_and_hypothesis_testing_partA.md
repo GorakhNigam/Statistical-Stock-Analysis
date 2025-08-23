@@ -1,4 +1,4 @@
-Gorakhnath Nigam Assignment Solution 5A
+Gorakhnath Nigam
 ================
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you
@@ -237,3 +237,4 @@ variance (Risk Optimization), though the bootstrap variation highlights
 some sensitivity to sampling variability and gives you risk estimation
 on estimated alpha. Also we have 95% confidence interval between
 \[0.3925348, 0.6745020\]
+
