@@ -12,3 +12,7 @@ Statistical Stock Analysis for Qualcom and Broadcom (both independently and thei
 5. bootstrap_and_hypothesis_testing : Applied hypothesis testing and resampling methods on the two stocks. Conducted bootstrap variance estimation, confidence intervals, and hypothesis testing on mean returns and volatility to evaluate market risk.
    
 6. copula_dependence_modeling : Integrated the analysis by applying copula-based dependence modeling between Qualcomm and Broadcom returns. Used Clayton, Gaussian, t, and Joe copulas to capture tail dependencies and joint risk patterns.
+
+
+![R](https://img.shields.io/badge/R-4.x-lightblue.svg)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-lightgrey.svg)
